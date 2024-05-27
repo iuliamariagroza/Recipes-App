@@ -1,0 +1,40 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.add-title {
+  margin-left: 21px;
+  margin-top: 15px;
+  font-size: 27px;
+  margin-bottom: 10px;
+}
+
+.input-text {
+  width: 250px;
+  font-size: 17px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.add-label {
+  font-size: 19px;
+}
+
+.add-b {
+  width: 250px;
+  background-color: rgb(255, 0, 86);
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  font-size: 17px;
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+}

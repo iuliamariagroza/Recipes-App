@@ -1,0 +1,57 @@
+.author-card {
+  border-radius: 5px;
+  /* overflow: hidden; */
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+  height: 170px;
+  width: 180px;
+  margin: 20px 20px;
+  position: relative;
+}
+
+.author-card-info {
+  padding: 15px;
+  position: absolute;
+  width: 100%;
+  top: -10%;
+  left: 0;
+}
+
+.author-name {
+  font-size: 19px;
+  font-weight: bold;
+  color: #0a0a0a;
+  margin-top: 70px;
+  margin-bottom: 10px;
+}
+
+.view-details-bttn {
+  font-size: 15px;
+  font-weight: 650;
+  border-radius: 5px;
+  border: 1px solid white;
+  background-color: rgb(255, 0, 86);
+  color: white;
+  padding: 5px;
+  margin-bottom: 3px;
+}
+
+.edit-author-bttn {
+  font-size: 15px;
+  font-weight: 650;
+  border-radius: 5px;
+  border: 1px solid white;
+  background-color: rgb(255, 0, 86);
+  color: white;
+  padding: 5px;
+  margin-bottom: 3px;
+}
+
+.delete-button {
+  font-size: 15px;
+  font-weight: 650;
+  border-radius: 5px;
+  border: 1px solid white;
+  background-color: rgb(255, 0, 86);
+  color: white;
+  padding: 4px;
+}
